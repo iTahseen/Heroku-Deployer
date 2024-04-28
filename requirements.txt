@@ -1,2 +1,4 @@
 apscheduler
 python-dotenv
+python-decouple
+telethon
